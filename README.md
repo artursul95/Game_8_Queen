@@ -4,7 +4,7 @@
 Игра написана на языке программирования Python с использованием принципов ООП.
 # Как играть
 Клонировать репозиторий к себе локально и установить зависимости из файла requirement.txt с помощью команд:<br>  
-git clone https://github.com/artursul95/Game_8_Queen
+git clone https://github.com/artursul95/8_queens_game
 
 pip install -r requirements.txt
 
